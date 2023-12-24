@@ -1,3 +1,4 @@
+#DockerImage with Ubuntu Linux 
 FROM ubuntu:20.04
 
 COPY my.png .
